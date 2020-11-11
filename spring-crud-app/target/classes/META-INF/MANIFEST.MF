@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: crud
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: zrafa
+Implementation-Vendor-Id: com.rzeb.springboot
+Build-Jdk: 1.8.0_231
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/crud-contact-list
+Created-By: Maven Integration for Eclipse
+
